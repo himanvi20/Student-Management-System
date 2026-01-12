@@ -9,7 +9,4 @@ Features
   > Responsive UI
   > Component-based structure
   > Clean and scalable frontend design
-Run Locally
-Bash
-npm install
-npm run dev
+WEB PAGE - https://capable-gingersnap-5c5662.netlify.app/
