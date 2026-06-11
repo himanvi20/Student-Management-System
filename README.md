@@ -9,4 +9,3 @@ Features
   > Responsive UI
   > Component-based structure
   > Clean and scalable frontend design
-WEB PAGE - https://capable-gingersnap-5c5662.netlify.app/
